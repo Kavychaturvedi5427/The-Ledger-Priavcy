@@ -45,6 +45,13 @@ For full details, read [`TermsOfUse.htm`](TermsOfUse.htm).
 
 ---
 
+## 🆘 Support / Help Desk
+
+-- Stuck? Found a bug? Want to complain politely (or not)?
+
+For full details, read [`help_desk.htm`](help_desk.htm).
+
+
 ## 👨‍💻 Author
 
 **Kavy Chaturvedi**  
